@@ -1,4 +1,4 @@
-Ubuntu OS 20.04.6 LTS is used for this Repo.
+Ubuntu 20.04.6 LTS is used for this Repo.
 
 Step 1.
 
